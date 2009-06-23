@@ -9,4 +9,4 @@ require 'rake/rdoctask'
 
 require 'tasks/rails'
 
-require 'hobo/tasks/rails'
+# NOW USING GIT SUBMODULE # require 'hobo/tasks/rails'
