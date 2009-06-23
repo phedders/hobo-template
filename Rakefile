@@ -7,6 +7,6 @@ require 'rake'
 require 'rake/testtask'
 require 'rake/rdoctask'
 
-# NOW USING GIT SUBMODULE # require 'tasks/rails'
+require 'tasks/rails'
 
 # NOW USING GIT SUBMODULE # require 'hobo/tasks/rails'
