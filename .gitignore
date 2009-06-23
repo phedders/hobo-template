@@ -1,0 +1,8 @@
+log/*.log
+tmp/*
+db/*.sqlite3
+app/views/taglibs/auto
+db/data.yml
+patches-*/*
+.stgit-edit.txt
+
